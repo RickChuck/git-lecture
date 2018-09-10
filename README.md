@@ -9,7 +9,7 @@ To check if git is installed run `git --version`. If it is not installed do one 
 
 brew install node
 
-## Ensure Every one has a github account
+## Ensure Every one has a github account 
 
 ### Windows / Mac Download
 
@@ -56,3 +56,6 @@ set user info for git on terminal
 - In Terminal, paste the following: `defaults write com.apple.finder AppleShowAllFiles YES`
 - Press return
 - Hold the ‘Option/alt’ key, then right click on the Finder icon in the dock and click Relaunch.
+
+
+Hello there 'Ground', will you be my friend?
